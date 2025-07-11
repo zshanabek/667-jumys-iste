@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #222;
+  color: #fff;
+  font-family: "Montserrat", "Ubuntu", sans-serif;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.centered {
+  max-width: 100%;
+}
+
+p {
+  font-size: 5rem;
+  font-weight: bold;
+  line-height: 1.4;
+  letter-spacing: 1px;
+}

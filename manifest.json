@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "667 ЖҰМЫС ІСТЕ!",
+  "version": "1.0",
+  "description": "Уақытты босқа өткізетін сайттарға кіргенде, мотивациялық хабарлама көрсетіледі.",
+  "permissions": [
+    "storage",
+    "declarativeNetRequest",
+    "declarativeNetRequestWithHostAccess"
+  ],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_title": "667 ЖҰМЫС ІСТЕ!"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "options_page": "options.html"
+}
