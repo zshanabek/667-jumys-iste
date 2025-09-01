@@ -29,3 +29,11 @@
 ## Автор
 
 [X: @zshanabek](https://x.com/zshanabek)
+
+## Privacy Policy
+
+This extension does not collect, store, or transmit any personal user data.  
+All settings and preferences are stored locally in your browser and are not shared with third parties.
+
+Бұл кеңейтім жеке пайдаланушы деректерін жинамайды, сақтамайды немесе тасымалдамайды.
+Барлық параметрлер мен теңшелімдер браузерде жергілікті түрде сақталады және үшінші тараптармен бөлісілмейді.

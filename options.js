@@ -18,7 +18,7 @@ function renderSites(sites) {
     li.textContent = site;
 
     const delBtn = document.createElement("button");
-    delBtn.textContent = "Жою";
+    delBtn.textContent = "x";
     delBtn.onclick = async () => {
       sites.splice(index, 1);
       await saveSites(sites);
